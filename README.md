@@ -1,5 +1,15 @@
 # WINDICE.io official change log
 
+## [14.06.2019]
+
+**New:**
+- Share deposit/payout in chat
+- Maintenance mode
+
+**Fixed bugs:**
+- Sending rain to sender
+- Double support tickets
+
 ## [12.06.2019]
 
 **Fixed bugs:**
