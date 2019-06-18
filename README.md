@@ -12,6 +12,7 @@
 **Fixed bugs:**
 - Dogecoin address validator
 - Sum amount USD in affiliate section
+- Payout input in game (bug with number one)
 
 ## [14.06.2019]
 
