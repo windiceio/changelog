@@ -1,5 +1,13 @@
 # WINDICE.io official change log
 
+## [20.06.2019]
+
+**New:**
+- Added Español, Português, Filipino, ALL chat rooms
+
+**Change:**
+- Rain message design
+
 ## [18.06.2019]
 
 **New:**
