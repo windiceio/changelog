@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [22.06.2019]
+
+**New:**
+- Bets count animation
+
 ## [20.06.2019]
 
 **New:**
