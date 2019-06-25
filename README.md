@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [25.06.2019]
+
+**New:**
+- Added email confirmation if login from new device
+
 ## [22.06.2019]
 
 **New:**
