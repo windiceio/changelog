@@ -8,6 +8,9 @@
 **Change:**
 - Disable change nickname after 60 days
 
+**Fixed bugs:**
+- Bet count
+
 **Other**
 - User stats optimization
 - Game optimization
