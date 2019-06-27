@@ -1,5 +1,17 @@
 # WINDICE.io official change log
 
+## [27.06.2019]
+
+**New:**
+- Added github link
+
+**Change:**
+- Disable change nickname after 60 days
+
+**Other**
+- User stats optimization
+- Game optimization
+
 ## [25.06.2019]
 
 **New:**
