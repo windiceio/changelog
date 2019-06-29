@@ -41,8 +41,8 @@
 ## [18.06.2019]
 
 **New:**
-- Added parter level in affiliate statistic
-- Added parter percent in affiliate statistic
+- Added partner level in affiliate statistic
+- Added partner percent in affiliate statistic
 
 **Change:**
 - Promo messages design on chat
