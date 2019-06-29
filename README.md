@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [29.06.2019]
+
+**Fixed bugs:**
+- Users bet stats
+
 ## [27.06.2019]
 
 **New:**
