@@ -1,5 +1,13 @@
 # WINDICE.io official change log
 
+## [30.06.2019]
+
+**New:**
+- API method get seed
+
+**Change:**
+- API method "change seed" changed name
+
 ## [29.06.2019]
 
 **Fixed bugs:**
