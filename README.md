@@ -7,6 +7,10 @@
 
 **Change:**
 - API method "change seed" changed name
+- API documentation
+
+**Fixed bugs:**
+- Visual bug in partner statistics
 
 ## [29.06.2019]
 
