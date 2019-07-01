@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [01.07.2019]
+
+**New:**
+- API method get statistics
+
 ## [30.06.2019]
 
 **New:**
