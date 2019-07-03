@@ -1,5 +1,11 @@
 # WINDICE.io official change log
 
+## [02.07.2019]
+
+**New:**
+- User Last seen in profile
+- User Time spent in profile
+
 ## [01.07.2019]
 
 **New:**
