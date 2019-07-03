@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [03.07.2019]
+
+**New:**
+- Autodetect chat language
+
 ## [02.07.2019]
 
 **New:**
