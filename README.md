@@ -4,6 +4,7 @@
 
 **New:**
 - Autodetect chat language
+- Select chat room in rain function
 
 ## [02.07.2019]
 
