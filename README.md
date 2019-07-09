@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [09.07.2019]
+
+**Fixed bugs:**
+- Bug in partner statistics
+
 ## [03.07.2019]
 
 **New:**
