@@ -1,5 +1,19 @@
 # WINDICE.io official change log
 
+## [16.07.2019]
+
+**Change:**
+- User online indicator design
+- Design upper counter
+- Design bet info panel
+- Design bets table
+- Design bets history section
+- API performance optimization
+
+**Fixed bugs:**
+- Enter minimum bet
+- Added bots in online counter
+
 ## [09.07.2019]
 
 **Fixed bugs:**
