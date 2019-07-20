@@ -2,6 +2,11 @@
 
 ## [16.07.2019]
 
+**🐛Fixed bugs:**
+- Login/Registration on Safari MacOS
+
+## [16.07.2019]
+
 **Change:**
 - User online indicator design
 - Design upper counter
