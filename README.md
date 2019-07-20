@@ -1,6 +1,6 @@
 # WINDICE.io official change log
 
-## [16.07.2019]
+## [19.07.2019]
 
 **🐛Fixed bugs:**
 - Login/Registration on Safari MacOS
