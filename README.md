@@ -12,7 +12,7 @@
 
 ## [16.07.2019]
 
-**Change:**
+**🛠️ Change:**
 - User online indicator design
 - Design upper counter
 - Design bet info panel
@@ -31,27 +31,27 @@
 
 ## [03.07.2019]
 
-**New:**
+**🚀New:**
 - Autodetect chat language
 - Select chat room in rain function
 
 ## [02.07.2019]
 
-**New:**
+**🚀New:**
 - User Last seen in profile
 - User Time spent in profile
 
 ## [01.07.2019]
 
-**New:**
+**🚀New:**
 - API method get statistics
 
 ## [30.06.2019]
 
-**New:**
+**🚀New:**
 - API method get seed
 
-**Change:**
+**🛠️ Change:**
 - API method "change seed" changed name
 - API documentation
 
@@ -65,10 +65,10 @@
 
 ## [27.06.2019]
 
-**New:**
+**🚀New:**
 - Added github link
 
-**Change:**
+**🛠️ Change:**
 - Disable change nickname after 60 days
 
 **🐛Fixed bugs:**
@@ -80,29 +80,29 @@
 
 ## [25.06.2019]
 
-**New:**
+**🚀New:**
 - Added email confirmation if login from new device
 
 ## [22.06.2019]
 
-**New:**
+**🚀New:**
 - Bets count animation
 
 ## [20.06.2019]
 
-**New:**
+**🚀New:**
 - Added Español, Português, Filipino, ALL chat rooms
 
-**Change:**
+**🛠️ Change:**
 - Rain message design
 
 ## [18.06.2019]
 
-**New:**
+**🚀New:**
 - Added partner level in affiliate statistic
 - Added partner percent in affiliate statistic
 
-**Change:**
+**🛠️ Change:**
 - Promo messages design on chat
 
 **🐛Fixed bugs:**
@@ -112,7 +112,7 @@
 
 ## [14.06.2019]
 
-**New:**
+**🚀New:**
 - Share deposit/payout in chat
 - Maintenance mode
 
