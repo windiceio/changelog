@@ -1,5 +1,7 @@
 # WINDICE.io official change log
 
+## [22.07.2019]
+
 **🛠️ Change:**
 - Mobile design
 
