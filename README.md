@@ -1,5 +1,8 @@
 # WINDICE.io official change log
 
+**🛠️ Change:**
+- Mobile design
+
 ## [19.07.2019]
 
 **🐛Fixed bugs:**
@@ -15,13 +18,13 @@
 - Design bets history section
 - API performance optimization
 
-**Fixed bugs:**
+**🐛Fixed bugs:**
 - Enter minimum bet
 - Added bots in online counter
 
 ## [09.07.2019]
 
-**Fixed bugs:**
+**🐛Fixed bugs:**
 - Bug in partner statistics
 
 ## [03.07.2019]
@@ -50,12 +53,12 @@
 - API method "change seed" changed name
 - API documentation
 
-**Fixed bugs:**
+**🐛Fixed bugs:**
 - Visual bug in partner statistics
 
 ## [29.06.2019]
 
-**Fixed bugs:**
+**🐛Fixed bugs:**
 - Users bet stats
 
 ## [27.06.2019]
@@ -66,7 +69,7 @@
 **Change:**
 - Disable change nickname after 60 days
 
-**Fixed bugs:**
+**🐛Fixed bugs:**
 - Bet count
 
 **Other**
@@ -100,7 +103,7 @@
 **Change:**
 - Promo messages design on chat
 
-**Fixed bugs:**
+**🐛Fixed bugs:**
 - Dogecoin address validator
 - Sum amount USD in affiliate section
 - Payout input in game (bug with number one)
@@ -111,18 +114,18 @@
 - Share deposit/payout in chat
 - Maintenance mode
 
-**Fixed bugs:**
+**🐛Fixed bugs:**
 - Sending rain to sender
 - Double support tickets
 
 ## [12.06.2019]
 
-**Fixed bugs:**
+**🐛Fixed bugs:**
 - Sending without a minimum amount of tip to the moderator
 
 ## [11.06.2019]
 
-**Fixed bugs:**
+**🐛Fixed bugs:**
 - Paste by right mouse click in inputs bet, win, chance, payout
 
 **Other:**
