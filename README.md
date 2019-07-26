@@ -1,5 +1,13 @@
 # WINDICE.io official change log
 
+## [26.07.2019]
+
+**🚀New:**
+- CRASH game
+
+**🐛Fixed bugs:**
+- WIN amount bug
+
 ## [22.07.2019]
 
 **🛠️ Change:**
