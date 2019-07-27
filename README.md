@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [27.07.2019]
+
+**🚀New:**
+- Added crash bet fair verification
+
 ## [26.07.2019]
 
 **🚀New:**
