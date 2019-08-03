@@ -1,5 +1,13 @@
 # WINDICE.io official change log
 
+## [03.08.2019]
+
+**🐛Fixed bugs:**
+- bug in Roll API method (too many requests)
+
+**🛠️ Change:**
+- performance optimization
+
 ## [27.07.2019]
 
 **🚀New:**
