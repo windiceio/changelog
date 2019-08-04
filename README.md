@@ -1,5 +1,13 @@
 # WINDICE.io official change log
 
+## [04.08.2019]
+
+**🐛Fixed bugs:**
+- Alt button in hot keys
+
+**🛠️ Change:**
+- Disabled bets list animation
+
 ## [03.08.2019]
 
 **🐛Fixed bugs:**
