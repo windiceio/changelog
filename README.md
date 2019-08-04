@@ -7,6 +7,8 @@
 
 **🛠️ Change:**
 - Disabled bets list animation
+- Added 8 symbols after coma for CHANCE in Crash game
+- Performance optimization
 
 ## [03.08.2019]
 
