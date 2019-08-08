@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [08.08.2019]
+
+**🚀New:**
+- Added "forgot login"
+
 ## [04.08.2019]
 
 **🐛Fixed bugs:**
