@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [09.08.2019]
+
+**🚀New:**
+- Added AUTO mode in the crash game
+
 ## [08.08.2019]
 
 **🚀New:**
