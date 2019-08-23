@@ -1,5 +1,19 @@
 # WINDICE.io official change log
 
+## [23.08.2019]
+
+**🚀New:**
+- Added Live stats in dice game
+
+**🛠️ Change:**
+- Crash game interface design
+- Top stats bar size on mobile devices
+- Server optimization
+
+**🐛Fixed bugs:**
+- Max win amount error
+- Default languages in chat
+
 ## [09.08.2019]
 
 **🚀New:**
