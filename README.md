@@ -13,6 +13,7 @@
 **🐛Fixed bugs:**
 - Max win amount error
 - Default languages in chat
+- Double click on "roll" button
 
 ## [09.08.2019]
 
