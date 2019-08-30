@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [30.08.2019]
+
+**🚀New:**
+- Telegram graphic game (https://t.me/windicebot)
+
 ## [23.08.2019]
 
 **🚀New:**
