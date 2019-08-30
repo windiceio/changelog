@@ -5,6 +5,9 @@
 **🚀New:**
 - Telegram graphic game (https://t.me/windicebot)
 
+**🐛Fixed bugs:**
+- Slider resize on rotation mobile device
+
 ## [23.08.2019]
 
 **🚀New:**
