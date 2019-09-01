@@ -8,6 +8,9 @@
 **🛠️ Change:**
 - Deleted High Wins tab
 
+**🐛Fixed bugs:**
+- Update chance after changed slider
+
 ## [30.08.2019]
 
 **🚀New:**
