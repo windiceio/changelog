@@ -1,5 +1,13 @@
 # WINDICE.io official change log
 
+## [01.09.2019]
+
+**🚀New:**
+- Added High Rollers tab
+
+**🛠️ Change:**
+- Deleted High Wins tab
+
 ## [30.08.2019]
 
 **🚀New:**
