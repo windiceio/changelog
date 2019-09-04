@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [04.09.2019]
+
+**🐛Fixed bugs:**
+- Crash game window resize after rotation mobile device
+
 ## [01.09.2019]
 
 **🚀New:**
