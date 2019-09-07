@@ -1,5 +1,11 @@
 # WINDICE.io official change log
 
+## [07.09.2019]
+
+**🛠️ Change:**
+- Design stat page
+- New "Establishing connection" notification
+
 ## [04.09.2019]
 
 **🐛Fixed bugs:**
