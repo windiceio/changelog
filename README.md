@@ -1,5 +1,11 @@
 # WINDICE.io official change log
 
+
+## [09.09.2019]
+
+**🚀New:**
+- Added detail online stats
+
 ## [07.09.2019]
 
 **🛠️ Change:**
