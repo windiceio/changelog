@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [16.09.2019]
+
+**🚀New:**
+- Added wagering contest
 
 ## [09.09.2019]
 
