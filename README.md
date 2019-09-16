@@ -5,6 +5,9 @@
 **🚀New:**
 - Added wagering contest
 
+**🐛Fixed bugs:**
+- High rollers stats on Crash game
+
 ## [09.09.2019]
 
 **🚀New:**
