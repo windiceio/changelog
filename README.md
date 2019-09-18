@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [18.09.2019]
+
+**🚀New:**
+- Added /rules chat command
+
 ## [16.09.2019]
 
 **🚀New:**
