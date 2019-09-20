@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [20.09.2019]
+
+**🛠️ Change:**
+- Disabled change email after confirmation
+
 ## [18.09.2019]
 
 **🚀New:**
