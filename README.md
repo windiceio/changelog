@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [22.09.2019]
+
+**🚀New:**
+- Added contest rules
+
 ## [20.09.2019]
 
 **🛠️ Change:**
