@@ -2,6 +2,11 @@
 
 ## [22.09.2019]
 
+**🐛Fixed bugs:**
+- Contest timer
+
+## [22.09.2019]
+
 **🚀New:**
 - Added contest rules
 
