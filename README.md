@@ -1,6 +1,6 @@
 # WINDICE.io official change log
 
-## [22.09.2019]
+## [23.09.2019]
 
 **🐛Fixed bugs:**
 - Contest timer
