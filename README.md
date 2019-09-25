@@ -1,5 +1,17 @@
 # WINDICE.io official change log
 
+## [26.09.2019]
+
+**🚀New:**
+- Auto trivia in chat
+- Added /trivia command
+
+**🛠️ Change:**
+- Chat performance
+
+**🐛Fixed bugs:**
+- Email confirmation
+
 ## [23.09.2019]
 
 **🐛Fixed bugs:**
