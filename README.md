@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [28.09.2019]
+
+**🐛Fixed bugs:**
+- Open emoji
+
 ## [26.09.2019]
 
 **🚀New:**
