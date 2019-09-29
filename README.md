@@ -6,7 +6,7 @@
 - Added trivia transactions on Finances section
 
 **🐛Fixed bugs:**
-- Contest History - Amount <-> Wager
+- Contest History - Prize <-> Wager
 
 ## [28.09.2019]
 
