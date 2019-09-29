@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [29.09.2019]
+
+**🚀New:**
+- Added trivia transactions on Finances section
+
 ## [28.09.2019]
 
 **🐛Fixed bugs:**
