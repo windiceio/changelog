@@ -1,5 +1,15 @@
 # WINDICE.io official change log
 
+## [-.10.2019]
+
+**🚀New:**
+- Max bet disable option
+
+**🐛Fixed bugs:**
+- Chat optimization
+- Private messages optimization
+- User search optimization
+
 ## [29.09.2019]
 
 **🚀New:**
