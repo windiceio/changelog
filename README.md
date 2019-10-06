@@ -4,6 +4,7 @@
 
 **🚀New:**
 - Max bet disable option
+- Indian room
 
 **🛠️ Change:**
 - New private messages system
@@ -14,7 +15,7 @@
 - User search optimization
 - Email confirmation if email uppercase
 - Contest duble pay
-- New private message notification
+- Private messages "New message" notification
 
 ## [29.09.2019]
 
