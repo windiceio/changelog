@@ -9,6 +9,7 @@
 - Chat optimization
 - Private messages optimization
 - User search optimization
+- Email confirmation if email uppercase
 
 ## [29.09.2019]
 
