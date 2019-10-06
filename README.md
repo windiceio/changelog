@@ -5,11 +5,16 @@
 **🚀New:**
 - Max bet disable option
 
+**🛠️ Change:**
+- New private messages system
+
 **🐛Fixed bugs:**
 - Chat optimization
 - Private messages optimization
 - User search optimization
 - Email confirmation if email uppercase
+- Contest duble pay
+- New private message notification
 
 ## [29.09.2019]
 
