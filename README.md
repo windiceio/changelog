@@ -1,5 +1,23 @@
 # WINDICE.io official change log
 
+## [7.10.2019]
+
+**🚀New:**
+- Friends
+- Max bet disable option
+- Indian room
+
+**🛠️ Change:**
+- New private messages system
+
+**🐛Fixed bugs:**
+- Chat optimization
+- Private messages optimization
+- User search optimization
+- Email confirmation if email uppercase
+- Contest duble pay
+- Private messages "New message" notification
+
 ## [29.09.2019]
 
 **🚀New:**
