@@ -3,6 +3,7 @@
 ## [-.10.2019]
 
 **🚀New:**
+- Friends
 - Max bet disable option
 - Indian room
 
