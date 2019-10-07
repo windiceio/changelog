@@ -1,6 +1,6 @@
 # WINDICE.io official change log
 
-## [-.10.2019]
+## [7.10.2019]
 
 **🚀New:**
 - Friends
