@@ -1,5 +1,13 @@
 # WINDICE.io official change log
 
+## [9.10.2019]
+
+**🚀New:**
+- Add "add friend" in user profile
+
+**🐛Fixed bugs:**
+- Disabled game hotkeys in private messages
+
 ## [7.10.2019]
 
 **🚀New:**
