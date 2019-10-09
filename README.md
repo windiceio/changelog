@@ -3,6 +3,7 @@
 ## [9.10.2019]
 
 **🚀New:**
+- Site mirror https://windice1.io
 - "Add friend" in user profile
 
 **🐛Fixed bugs:**
