@@ -3,7 +3,7 @@
 ## [9.10.2019]
 
 **🚀New:**
-- Add "add friend" in user profile
+- "Add friend" in user profile
 
 **🐛Fixed bugs:**
 - Disabled game hotkeys in private messages
