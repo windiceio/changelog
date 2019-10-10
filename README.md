@@ -1,5 +1,11 @@
 # WINDICE.io official change log
 
+## [10.10.2019]
+
+**🐛Fixed bugs:**
+- Chat share
+- Update exchange rate
+
 ## [9.10.2019]
 
 **🚀New:**
