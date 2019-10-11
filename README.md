@@ -2,6 +2,9 @@
 
 ## [11.10.2019]
 
+**🚀New:**
+- Bank
+
 **🐛Fixed bugs:**
 - Chat nessages counter
 
