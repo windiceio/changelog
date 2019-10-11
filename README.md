@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [11.10.2019]
+
+**🐛Fixed bugs:**
+- Chat nessages counter
+
 ## [10.10.2019]
 
 **🐛Fixed bugs:**
