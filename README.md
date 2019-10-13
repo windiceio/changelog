@@ -1,5 +1,13 @@
 # WINDICE.io official change log
 
+## [13.10.2019]
+
+**🚀New:**
+- Ignore users in private messages
+
+**🐛Fixed bugs:**
+- Animation tabs in friends section
+
 ## [11.10.2019]
 
 **🚀New:**
