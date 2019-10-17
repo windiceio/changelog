@@ -1,5 +1,11 @@
 # WINDICE.io official change log
 
+## [16.10.2019]
+
+**🐛Fixed bugs:**
+- Scrolling after closing chat
+- Visual on screen < 320px
+
 ## [13.10.2019]
 
 **🚀New:**
