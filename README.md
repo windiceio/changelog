@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [19.10.2019]
+
+**🛠️ Change:**
+- Chat performance
+
 ## [16.10.2019]
 
 **🐛Fixed bugs:**
