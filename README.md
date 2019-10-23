@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [23.10.2019]
+
+**🛠️ Change:**
+- Server performance
+
 ## [19.10.2019]
 
 **🛠️ Change:**
