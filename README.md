@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [02.11.2019]
+
+**🐛Fixed bugs:**
+- Moderator icon (Safari)
+
 ## [23.10.2019]
 
 **🛠️ Change:**
