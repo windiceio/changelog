@@ -1,5 +1,13 @@
 # WINDICE.io official change log
 
+## [11.11.2019]
+
+**🚀New:**
+- Bitcoin cash
+
+**🐛Fixed bugs:**
+- Fair function
+
 ## [02.11.2019]
 
 **🐛Fixed bugs:**
