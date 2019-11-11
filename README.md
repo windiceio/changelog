@@ -7,6 +7,7 @@
 
 **🐛Fixed bugs:**
 - Fair function
+- Sorting currencies in top navigation
 
 ## [02.11.2019]
 
