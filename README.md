@@ -6,6 +6,9 @@
 - Contest active indicator
 - Video bonus
 
+**🐛Fixed bugs:**
+- Telegram link in chat
+
 ## [11.11.2019]
 
 **🚀New:**
