@@ -1,5 +1,11 @@
 # WINDICE.io official change log
 
+## [18.11.2019]
+
+**🚀New:**
+- Contest active indicator
+- Video bonus
+
 ## [11.11.2019]
 
 **🚀New:**
