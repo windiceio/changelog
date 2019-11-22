@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [22.11.2019]
+
+**🛠️ Change:**
+- Chat rules
+
 ## [18.11.2019]
 
 **🚀New:**
