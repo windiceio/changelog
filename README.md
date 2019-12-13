@@ -1,5 +1,11 @@
 # WINDICE.io official change log
 
+
+## [13.12.2019]
+
+**🛠️ Change:**
+- Removed "all chats" button on trivia
+
 ## [22.11.2019]
 
 **🛠️ Change:**
