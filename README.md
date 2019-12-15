@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [15.12.2019]
+
+**🐛Fixed bugs:**
+- Count chat messages with closed tab
 
 ## [13.12.2019]
 
