@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [18.12.2019]
+**🚀New:**
+- PLINKO game
+
 ## [15.12.2019]
 
 **🐛Fixed bugs:**
