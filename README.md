@@ -1,5 +1,12 @@
 # WINDICE.io official change log
 
+## [19.12.2019]
+**🚀New:**
+- Plinko visual verificator
+
+**🛠️ Change:**
+- Contest indicator
+
 ## [18.12.2019]
 **🚀New:**
 - PLINKO game
