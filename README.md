@@ -1,5 +1,13 @@
 # WINDICE.io official change log
 
+## [20.12.2019]
+**🛠️ Change:**
+- Balance animation
+- Plinko screen size
+
+**🐛Fixed bugs:**
+- User history
+
 ## [19.12.2019]
 **🚀New:**
 - Plinko visual verificator
