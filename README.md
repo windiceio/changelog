@@ -1,5 +1,13 @@
 # WINDICE.io official change log
 
+## [21.12.2019]
+**🚀New:**
+- Plinko live stats
+- Crash live stats
+
+**🛠️ Change:**
+- Dice game live stats
+
 ## [20.12.2019]
 **🛠️ Change:**
 - Balance animation
