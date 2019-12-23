@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [23.12.2019]
+**🐛Fixed bugs:**
+- Private messages
+
 ## [21.12.2019]
 **🚀New:**
 - Plinko live stats
