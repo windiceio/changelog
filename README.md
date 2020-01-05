@@ -1,5 +1,13 @@
 # WINDICE.io official change log
 
+## [x.01.2020]
+**🛠️ Change:**
+- Design deposit/payout modals
+- Design Bank page
+
+**🐛Fixed bugs:**
+- Plinko resize bug
+
 ## [28.12.2019]
 **🐛Fixed bugs:**
 - Plinko live stat
