@@ -7,6 +7,7 @@
 
 **🐛Fixed bugs:**
 - Plinko resize bug
+- Auto bet on Dice game
 
 ## [28.12.2019]
 **🐛Fixed bugs:**
