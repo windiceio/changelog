@@ -1,5 +1,17 @@
 # WINDICE.io official change log
 
+## [18.01.2020]
+**🚀New:**
+- New Affiliate
+
+**🛠️ Change:**
+- Design deposit/payout modals
+- Design Bank page
+
+**🐛Fixed bugs:**
+- Plinko resize bug
+- Auto bet on Dice game
+
 ## [28.12.2019]
 **🐛Fixed bugs:**
 - Plinko live stat
