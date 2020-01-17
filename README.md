@@ -1,6 +1,9 @@
 # WINDICE.io official change log
 
-## [x.01.2020]
+## [18.01.2020]
+**🚀New:**
+- New Affiliate
+
 **🛠️ Change:**
 - Design deposit/payout modals
 - Design Bank page
