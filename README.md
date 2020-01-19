@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [19.01.2020]
+**🛠️ Change:**
+- FAQ update (plinko, affiliate)
+- User menu
+
 ## [18.01.2020]
 **🚀New:**
 - New Affiliate
