@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [22.01.2020]
+**🐛Fixed bugs:**
+- Affiliate Balance Rounding
+
 ## [19.01.2020]
 **🛠️ Change:**
 - FAQ update (plinko, affiliate)
