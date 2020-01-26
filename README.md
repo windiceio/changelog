@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [26.01.2020]
+**🚀New:**
+- Admin/Moderator icon in user info modal
+- Admin/Moderator icon in private messages
+
 ## [22.01.2020]
 **🐛Fixed bugs:**
 - Affiliate Balance Rounding
