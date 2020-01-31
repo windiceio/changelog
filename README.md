@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [31.01.2020]
+**🐛Fixed bugs:**
+- Game error tooltips
+
 ## [26.01.2020]
 **🚀New:**
 - Admin/Moderator icon in user info modal
