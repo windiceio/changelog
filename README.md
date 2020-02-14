@@ -1,5 +1,11 @@
 # WINDICE.io official change log
 
+## [14.02.2020]
+**🛠️ Change:**
+- ALL chat room renamed to Rage
+**🐛Fixed bugs:**
+- Chat double messages
+
 ## [31.01.2020]
 **🐛Fixed bugs:**
 - Game error tooltips
