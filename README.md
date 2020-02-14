@@ -3,6 +3,7 @@
 ## [14.02.2020]
 **🛠️ Change:**
 - ALL chat room renamed to Rage
+
 **🐛Fixed bugs:**
 - Chat double messages
 
