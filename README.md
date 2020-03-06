@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [06.03.2020]
+**🐛Fixed bugs:**
+- Plinko win rounding
+
 ## [14.02.2020]
 **🛠️ Change:**
 - ALL chat room renamed to Rage
