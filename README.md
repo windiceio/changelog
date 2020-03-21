@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [22.03.2020]
+**🚀New:**
+- Ripple
+
 ## [06.03.2020]
 **🐛Fixed bugs:**
 - Plinko win rounding
