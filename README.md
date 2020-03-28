@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [28.03.2020]
+**🛠️ Change:**
+- Minimal chance for faucet bets is 0.2%
+
 ## [22.03.2020]
 **🚀New:**
 - Ripple
