@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [06.04.2020]
+**🚀New:**
+- BB code on forum: [BET]
+
 ## [28.03.2020]
 **🛠️ Change:**
 - Minimal chance for faucet bets is 0.2%
