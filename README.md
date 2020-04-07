@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [07.04.2020]
+**🚀New:**
+- TvT Tournaments
+
 ## [06.04.2020]
 **🚀New:**
 - BB code on forum: [BET]
