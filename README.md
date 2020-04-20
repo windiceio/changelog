@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [20.04.2020]
+**🛠️ Change:**
+- Tournament rules
+- Autostart contest every week
+
 ## [07.04.2020]
 **🚀New:**
 - TvT Tournaments
