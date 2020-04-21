@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [21.04.2020]
+**🐛Fixed bugs:**
+- 2FA code validator
+
 ## [20.04.2020]
 **🛠️ Change:**
 - Tournament rules
