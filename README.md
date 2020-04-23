@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [23.04.2020]
+**🛠️ Change:**
+- Chat rules
+
 ## [21.04.2020]
 **🐛Fixed bugs:**
 - 2FA code validator
