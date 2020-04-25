@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [25.04.2020]
+**🐛Fixed bugs:**
+- Tournament mobile version
+
 ## [23.04.2020]
 **🛠️ Change:**
 - Chat rules
