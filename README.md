@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+
+## [02.05.2020]
+**🐛Fixed bugs:**
+- Affiliate links
+
 ## [25.04.2020]
 **🐛Fixed bugs:**
 - Tournament mobile version
