@@ -3,6 +3,7 @@
 ## [--.06.2020]
 **🛠️ Change:**
 - Chat rules
+- Tournament disabled
 
 **🐛Fixed bugs:**
 - Auto bet
