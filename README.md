@@ -1,5 +1,12 @@
 # WINDICE.io official change log
 
+## [--.06.2020]
+**🛠️ Change:**
+- Chat rules
+
+**🐛Fixed bugs:**
+- Auto bet
+- Mobile design
 
 ## [02.05.2020]
 **🐛Fixed bugs:**
