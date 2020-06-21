@@ -8,6 +8,7 @@
 **🐛Fixed bugs:**
 - Auto bet
 - Mobile design
+- Forum link in chat
 
 ## [02.05.2020]
 **🐛Fixed bugs:**
