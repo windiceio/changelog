@@ -1,5 +1,24 @@
 # WINDICE.io official change log
 
+## [22.06.2020]
+**🚀New:**
+- VIP system
+- in-game token
+- shop
+- rakeback
+- cashback
+- boosts
+- avatar/chat decorations
+
+**🛠️ Change:**
+- Chat rules
+- Tournament disabled
+- User pop-up design
+
+**🐛Fixed bugs:**
+- Auto bet
+- Mobile design
+- Forum link in chat
 
 ## [02.05.2020]
 **🐛Fixed bugs:**
