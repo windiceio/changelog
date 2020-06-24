@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+
+## [24.06.2020]
+**🐛Fixed bugs:**
+- Telegram bot
+
 ## [22.06.2020]
 **🚀New:**
 - VIP system
