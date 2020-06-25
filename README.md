@@ -6,6 +6,7 @@
 - Destroy tokens from bank
 - Balance WIN disappears after opening popup
 - Faucet on crypto
+- Zero WIN balance on tip/rain/trivia popup
 
 ## [24.06.2020]
 **🐛Fixed bugs:**
