@@ -1,5 +1,11 @@
 # WINDICE.io official change log
 
+## [25.06.2020]
+**🐛Fixed bugs:**
+- Daily bonus mobile design
+- Destroy tokens from bank
+- Balance WIN disappears after opening popup
+- Faucet on crypto
 
 ## [24.06.2020]
 **🐛Fixed bugs:**
