@@ -1,5 +1,15 @@
 # WINDICE.io official change log
 
+## [26.06.2020]
+**🚀New:**
+- Crash game - sounds
+- Crash game - hot keys
+- Crash game - hide max bet
+
+**🐛Fixed bugs:**
+- Bet window on chat
+- User navigation menu on mobile
+
 ## [25.06.2020]
 **🐛Fixed bugs:**
 - Daily bonus mobile design
