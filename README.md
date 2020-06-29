@@ -1,5 +1,15 @@
 # WINDICE.io official change log
 
+## [30.06.2020]
+**🚀New:**
+- Wincoin daily contest
+
+**🐛Fixed bugs:**
+- Mobile menu
+
+**🛠️ Change:**
+- Minus EXP when taking a real faucet
+
 ## [26.06.2020]
 **🚀New:**
 - Crash game - sounds
