@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [01.07.2020]
+**🐛Fixed bugs:**
+- Wincoin contest history
+- Private messages to moderator
+
 ## [30.06.2020]
 **🚀New:**
 - Wincoin daily contest
