@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [03.07.2020]
+**🛠️ Change:**
+- Removed "middle finger" emoji
+
 ## [01.07.2020]
 **🐛Fixed bugs:**
 - Wincoin contest history
