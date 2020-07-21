@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [21.07.2020]
+**🐛Fixed bugs:**
+- Rakeback/Cashback table design (mobile)
+
 ## [03.07.2020]
 **🛠️ Change:**
 - Removed "middle finger" emoji
