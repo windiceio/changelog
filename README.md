@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [25.09.2020]
+**🛠️ Change:**
+- Minimum balance for rain/tips send 0.0005btc
+
 ## [21.07.2020]
 **🐛Fixed bugs:**
 - Rakeback/Cashback table design (mobile)
