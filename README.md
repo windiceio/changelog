@@ -3,6 +3,7 @@
 ## [25.09.2020]
 **🛠️ Change:**
 - Minimum balance for rain/tips send 0.0005btc
+- Removed WINCOIN from High Rollers tab
 
 ## [21.07.2020]
 **🐛Fixed bugs:**
