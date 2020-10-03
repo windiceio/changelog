@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [03.10.2020]
+**🛠️ Change:**
+- Optimized bet history page
+
 ## [25.09.2020]
 **🛠️ Change:**
 - Minimum balance for rain/tips send 0.0005btc
