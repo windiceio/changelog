@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [17.10.2020]
+**🛠️ Change:**
+- Design user popup
+- Fixed shop design
+
 ## [03.10.2020]
 **🛠️ Change:**
 - Optimized bet history page
