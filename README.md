@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [01.11.2020]
+**🚀New:**
+- Roulette game
+- New design main page
+
 ## [17.10.2020]
 **🛠️ Change:**
 - Design user popup
