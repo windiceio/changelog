@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [22.11.2020]
+**🚀New:**
+- Roulette users count icon
+
 ## [01.11.2020]
 **🚀New:**
 - Roulette game
