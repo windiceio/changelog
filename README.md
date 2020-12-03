@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [03.12.2020]
+**🐛Fixed bugs:**
+- Hight rolls on My bets list
+- Shop bug
+
 ## [22.11.2020]
 **🚀New:**
 - Roulette users count icon
