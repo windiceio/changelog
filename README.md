@@ -1,5 +1,11 @@
 # WINDICE.io official change log
 
+## [27.12.2020]
+**🚀New:**
+- Beard avatar
+- Santa avatar
+- Duck avatar gift
+
 ## [03.12.2020]
 **🐛Fixed bugs:**
 - Hight rolls on My bets list
