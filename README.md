@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [29.12.2020]
+**🐛Fixed bugs:**
+- Faucet limits information
+
 ## [27.12.2020]
 **🚀New:**
 - Beard avatar
