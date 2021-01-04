@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [04.01.2021]
+**🛠️ Change:**
+- Optimization of site loading
+- Fixed long login loading
+
 ## [29.12.2020]
 **🐛Fixed bugs:**
 - Faucet limits information
