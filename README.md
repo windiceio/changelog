@@ -9,6 +9,7 @@
 - Quickspin provider
 - Yggdrasil provider
 - Bgaming provider
+
 **🐛Fixed bugs:**
 - Select menu on affiliate page
 
