@@ -1,5 +1,17 @@
 # WINDICE.io official change log
 
+## [10.01.2021]
+**🚀New:**
+- Casino platform
+- Evolution provider
+- Evoplay provider
+- Habanero provider
+- Quickspin provider
+- Yggdrasil provider
+- Bgaming provider
+**🐛Fixed bugs:**
+- Select menu on affiliate page
+
 ## [04.01.2021]
 **🛠️ Change:**
 - Optimization of site loading
