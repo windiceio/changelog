@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [12.01.2021]
+**🚀New:**
+- Hide contest option
+- Hide rolls option
+
 ## [10.01.2021]
 **🚀New:**
 - Casino platform
