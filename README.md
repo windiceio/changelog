@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [17.01.2021]
+**🚀New:**
+- Daily wager contest
+- Growing prize pool for contest
+
 ## [12.01.2021]
 **🚀New:**
 - Hide contest option
