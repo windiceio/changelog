@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [18.01.2021]
+**🚀New:**
+- Amatic provider
+- Fugaso provider
+
 ## [17.01.2021]
 **🚀New:**
 - Daily wager contest
