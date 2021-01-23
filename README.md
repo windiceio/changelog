@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [23.01.2021]
+**🚀New:**
+- Belatra provider
+- Wazdan provider
+
 ## [18.01.2021]
 **🚀New:**
 - Amatic provider
