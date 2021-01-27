@@ -1,5 +1,12 @@
 # WINDICE.io official change log
 
+## [27.01.2021]
+**🛠️ Change:**
+- Optimized animation and chat
+
+**🐛Fixed bugs:**
+- Rounding in roulette
+
 ## [23.01.2021]
 **🚀New:**
 - Belatra provider
