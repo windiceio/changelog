@@ -1,5 +1,14 @@
 # WINDICE.io official change log
 
+## [01.02.2021]
+**🚀New:**
+- Betsoft provider
+- Spinomenal provider
+- Tom Horn provider
+
+**🛠️ Change:**
+- Optimized CDN
+
 ## [27.01.2021]
 **🛠️ Change:**
 - Optimized animation and chat
