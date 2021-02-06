@@ -1,5 +1,15 @@
 # WINDICE.io official change log
 
+## [06.02.2021]
+**🚀New:**
+- Provider pages
+
+**🛠️ Change:**
+- Optimized images
+
+**🐛Fixed bugs:**
+- Daily contest
+
 ## [01.02.2021]
 **🚀New:**
 - Betsoft provider
