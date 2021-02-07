@@ -1,5 +1,13 @@
 # WINDICE.io official change log
 
+## [07.02.2021]
+**🚀New:**
+- Provider Pragmatic
+- Provider Ezugi
+
+**🛠️ Change:**
+- Optimized casino games
+
 ## [06.02.2021]
 **🚀New:**
 - Provider pages
