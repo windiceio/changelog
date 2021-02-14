@@ -1,5 +1,11 @@
 # WINDICE.io official change log
 
+## [14.02.2021]
+**🚀New:**
+- Provider GameArt
+- Provider Igrosoft
+- Provider Nucleus
+
 ## [07.02.2021]
 **🚀New:**
 - Provider Pragmatic
