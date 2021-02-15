@@ -1,5 +1,12 @@
 # WINDICE.io official change log
 
+## [15.02.2021]
+**🚀New:**
+- Events menu slider (mobile)
+
+**🐛Fixed bugs:**
+- Roll list data for casino games (mobile)
+
 ## [14.02.2021]
 **🚀New:**
 - Provider GameArt
