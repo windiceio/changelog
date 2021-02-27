@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [25.02.2021]
+**🐛Fixed bugs:**
+- Last big win
+
 ## [15.02.2021]
 **🚀New:**
 - Events menu slider (mobile)
