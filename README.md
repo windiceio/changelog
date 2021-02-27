@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [27.02.2021]
+**🚀New:**
+- Provider Booming
+- Provider MrSlotty
+
 ## [25.02.2021]
 **🐛Fixed bugs:**
 - Last big win
