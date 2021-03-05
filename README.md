@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [05.03.2021]
+**🐛Fixed bugs:**
+- Unavailable Ether transactions
+
 ## [27.02.2021]
 **🚀New:**
 - Provider Booming
