@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [08.03.2021]
+**🐛Fixed bugs:**
+- Payout min amount
+
 ## [05.03.2021]
 **🐛Fixed bugs:**
 - Unavailable Ether transactions
