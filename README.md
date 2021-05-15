@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [15.05.2021]
+**🚀New:**
+- Provider Only Play
+- Provider Absolutely Live Gaming
+
 ## [08.03.2021]
 **🐛Fixed bugs:**
 - Payout min amount
