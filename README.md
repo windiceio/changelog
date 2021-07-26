@@ -1,5 +1,14 @@
 # WINDICE.io official change log
 
+## [--.--.2021]
+**🐛Fixed bugs:**
+- Roulette users count
+- Roulette mobile version
+- Chat send button
+
+**🛠️ Change:**
+- Change Roulette game name
+
 ## [15.05.2021]
 **🚀New:**
 - Provider Only Play
