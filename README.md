@@ -1,13 +1,16 @@
 # WINDICE.io official change log
 
 ## [--.--.2021]
+**🚀New:**
+- Added game history in the Wheel 
+
 **🐛Fixed bugs:**
-- Roulette users count
-- Roulette mobile version
+- Wheel users count
+- Wheel mobile version
 - Chat send button
 
 **🛠️ Change:**
-- Change Roulette game name
+- Rename Roulette to Wheel
 
 ## [15.05.2021]
 **🚀New:**
