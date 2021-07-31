@@ -1,5 +1,18 @@
 # WINDICE.io official change log
 
+## [31.07.2021]
+**🚀New:**
+- Added game history in the Wheel 
+- New game Classic Roulette
+
+**🐛Fixed bugs:**
+- Wheel users count
+- Wheel mobile version
+- Chat send button
+
+**🛠️ Change:**
+- Rename Roulette to Wheel
+
 ## [15.05.2021]
 **🚀New:**
 - Provider Only Play
