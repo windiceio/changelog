@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [08.08.2021]
+**🚀New:**
+- Fullscreen mode in casino games
+
 ## [31.07.2021]
 **🚀New:**
 - Added game history in the Wheel 
