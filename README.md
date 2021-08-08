@@ -4,6 +4,9 @@
 **🚀New:**
 - Fullscreen mode in casino games
 
+**🛠️ Change:**
+- Security changes
+
 ## [31.07.2021]
 **🚀New:**
 - Added game history in the Wheel 
