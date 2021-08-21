@@ -1,5 +1,12 @@
 # WINDICE.io official change log
 
+## [22.08.2021]
+**🚀New:**
+- Restoring auto bets after losing connection
+
+**🛠️ Change:**
+- Security changes
+
 ## [08.08.2021]
 **🚀New:**
 - Fullscreen mode in casino games
