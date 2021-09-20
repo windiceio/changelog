@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [20.09.2021]
+**🚀New:**
+- Added chat notifications
+
 ## [22.08.2021]
 **🚀New:**
 - Restoring auto bets after losing connection
