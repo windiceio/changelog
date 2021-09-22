@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [22.09.2021]
+**🚀New:**
+- Ability to cancel withdrawal
+
 ## [20.09.2021]
 **🚀New:**
 - Added chat notifications
