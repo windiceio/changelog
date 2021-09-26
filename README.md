@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [26.09.2021]
+**🐛Fixed bugs:**
+- iOS 15 bugs
+
 ## [22.09.2021]
 **🚀New:**
 - Ability to cancel withdrawal
