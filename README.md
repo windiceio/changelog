@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [05.11.2021]
+**🚀New:**
+- New coin: Binance coin (BNB)
+
 ## [26.09.2021]
 **🐛Fixed bugs:**
 - iOS 15 bugs
