@@ -1,5 +1,12 @@
 # WINDICE.io official change log
 
+## [25.06.2022]
+**🐛Fixed bugs:**
+- Plinko presets
+
+**🛠️ Change:**
+- Optimized performance
+
 ## [05.11.2021]
 **🚀New:**
 - New coin: Binance coin (BNB)
