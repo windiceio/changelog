@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [02.07.2022]
+**🐛Fixed bugs:**
+- Online user status playing casino games
+
 ## [25.06.2022]
 **🐛Fixed bugs:**
 - Plinko presets
