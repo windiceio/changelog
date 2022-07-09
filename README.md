@@ -1,5 +1,16 @@
 # WINDICE.io official change log
 
+## [09.07.2022]
+**🚀New:**
+- Added Localization
+- Localization: added russian language
+
+**🐛Fixed bugs:**
+- Fixed memory leak
+
+**🛠️ Change:**
+- Optimized connection to server
+
 ## [02.07.2022]
 **🐛Fixed bugs:**
 - Online user status playing casino games
