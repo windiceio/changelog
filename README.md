@@ -1,5 +1,14 @@
 # WINDICE.io official change log
 
+## [01.12.2022]
+**🛠️ Change:**
+- Site footer
+- New pages added
+
+## [27.11.2022]
+**🚀New:**
+- Tron (TRX)
+
 ## [09.07.2022]
 **🚀New:**
 - Added Localization
