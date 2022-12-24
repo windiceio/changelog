@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [24.12.2022]
+**🛠️ Change:**
+- Security changes
+- Optimized performance
+
 ## [01.12.2022]
 **🛠️ Change:**
 - Site footer
