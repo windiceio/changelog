@@ -1,5 +1,13 @@
 # WINDICE.io official change log
 
+## [26.12.2022]
+**🚀New:**
+- Localization: added Portuguese language
+
+**🛠️ Change:**
+- Fixed bug in statistics
+- Optimized web performance
+
 ## [24.12.2022]
 **🛠️ Change:**
 - Security changes
