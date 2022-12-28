@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [28.12.2022]
+**🚀New:**
+- Localization: added Spanish language
+
 ## [26.12.2022]
 **🚀New:**
 - Localization: added Portuguese language
