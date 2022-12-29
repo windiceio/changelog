@@ -1,5 +1,10 @@
 # WINDICE.io official change log
 
+## [29.12.2022]
+**🛠️ Change:**
+- Changed the structure of the main page
+- Fixed scroll bug on the main page
+
 ## [28.12.2022]
 **🚀New:**
 - Localization: added Spanish language
