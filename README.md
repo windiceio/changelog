@@ -1,5 +1,9 @@
 # WINDICE.io official change log
 
+## [06.01.2023]
+**🛠️ Change:**
+- Update auto bet section
+
 ## [29.12.2022]
 **🛠️ Change:**
 - Changed the structure of the main page
