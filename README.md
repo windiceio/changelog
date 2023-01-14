@@ -4,7 +4,7 @@
 ## [13.01.2023]
 **🚀New:**
 - Added games bar
-- 
+
 **🛠️ Change:**
 - Optimized games performance
 
