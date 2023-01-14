@@ -1,5 +1,13 @@
 # WINDICE.io official change log
 
+
+## [13.01.2023]
+**🚀New:**
+- Added games bar
+- 
+**🛠️ Change:**
+- Optimized games performance
+
 ## [06.01.2023]
 **🛠️ Change:**
 - Update auto bet section
