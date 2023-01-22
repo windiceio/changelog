@@ -1,5 +1,8 @@
 # WINDICE.io official change log
 
+## [22.01.2023]
+**🛠️ Change:**
+- Optimized web performance
 
 ## [13.01.2023]
 **🚀New:**
